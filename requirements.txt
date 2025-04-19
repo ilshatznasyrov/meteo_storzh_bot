@@ -3,4 +3,3 @@ requests
 matplotlib
 datetime
 telebot
-io
