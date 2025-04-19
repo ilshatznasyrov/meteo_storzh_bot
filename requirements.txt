@@ -1,7 +1,6 @@
 pyTelegramBotAPI
 requests
 matplotlib
-matplotlib.pyplot as plt
 datetime
 telebot
 io
